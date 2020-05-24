@@ -1,0 +1,2 @@
+# ejerciicioPIC
+ejercicio para clase
